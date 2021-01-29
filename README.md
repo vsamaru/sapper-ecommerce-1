@@ -71,7 +71,7 @@ Open http://localhost:4400 on chrome. Your app should be live
 
 ### Deploy to Netlify
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/itswadesh/sapper-ecommerce"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/vsamaru/sapper-ecommerce1"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 ### Setup devops/live.js (Change according to your hosting envirnoment)
 
